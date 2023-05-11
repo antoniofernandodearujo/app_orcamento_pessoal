@@ -1,33 +1,33 @@
-# app_orcamento_pessoal
+# app_orcamento_personal
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/antoniofernandodearujo/app_orcamento_pessoal/blob/main/LICENSE)
 
-## 👀 Sobre o projeto
+## 👀 About the project
 
-O app de orçamento pessoal é uma aplicação web construída com intuito de pôr em prática os conceitos estudados durante um módulo do curso **web completo**, da [Udemy], utilizando o paradigma de Orientação a Objeto em JavaScript.
+The personal budget app is a web application built with the aim of putting into practice the concepts studied during a module of the **complete web** course, from [Udemy], using the Object Oriented paradigm in JavaScript.
 
-A aplicação consiste em um controle de gastos dividido em 2 partes, onde a primeira parte você cadastra a despesa, já a segunda parte você verifica todos os gastos e pode filtrar por um gasto em específico, como  a aplicação não tem um back end, os dados são guardados no local storage do navegador, e recuperados quando necssário.
+The application consists of an expense control divided into 2 parts, where the first part you register the expense, the second part you check all the expenses and you can filter by a specific expense, as the application does not have a back end, the data is stored in the browser's local storage, and retrieved when needed.
 
 ### Layout Web
 
 ![Imagem 1](https://github.com/antoniofernandodearujo/app_orcamento_pessoal/blob/main/assets/img1.png)![Imagem 2](https://github.com/antoniofernandodearujo/app_orcamento_pessoal/blob/main/assets/img2.png)![Imagem 3](https://github.com/antoniofernandodearujo/app_orcamento_pessoal/blob/main/assets/img3.png)
 
-## 💻 Tecnologias utilizadas
+## 💻 Technologies used
 ### Front end
 - HTML / Bootstrap / JS
 - Local Storage
 
-## 👨‍💻👩‍💻Como executar o projeto
+## 👨‍💻👩‍💻How to run the project
 ```bash
-# clonar o repositório
+# clone the repository
 git clone https://github.com/antoniofernandodearujo/app_orcamento_pessoal
 
-# abrir o arquivo index
+# open index file
 Basta dar 2 cliques no arquivo index.html
 ```
 
-## 🧑🏾‍💻 Autor
+## 🧑🏾‍💻 Author
 Antônio Fernando de Araújo Silva
-### Como entrar em contato ?
-Caso queira discutir ou surgiu alguma dúvida pode estar entrando em contato:
+### How to contact?
+If you want to discuss or if you have any questions, please contact:
 
 [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afas@academico.ufpb.br)
